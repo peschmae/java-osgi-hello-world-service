@@ -1,0 +1,3 @@
+ch/mpetermann/tutorials/osgi/service/impl/GreeterImpl.class
+ch/mpetermann/tutorials/osgi/service/api/Greeter.class
+ch/mpetermann/tutorials/osgi/activator/HelloWorld.class

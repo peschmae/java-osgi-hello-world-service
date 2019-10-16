@@ -1,0 +1,3 @@
+/Users/peschmae/work/karaf/hello-world/src/main/java/ch/mpetermann/tutorials/osgi/service/api/Greeter.java
+/Users/peschmae/work/karaf/hello-world/src/main/java/ch/mpetermann/tutorials/osgi/service/impl/GreeterImpl.java
+/Users/peschmae/work/karaf/hello-world/src/main/java/ch/mpetermann/tutorials/osgi/activator/HelloWorld.java
